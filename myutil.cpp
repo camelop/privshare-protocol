@@ -1,7 +1,3 @@
-//
-// Created by Xiaoyuan Liu on 11/22/20.
-//
-
 #include <random>
 #include <iostream>
 #include <iomanip>
