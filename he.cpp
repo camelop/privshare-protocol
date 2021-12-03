@@ -1,7 +1,3 @@
-//
-// Created by Xiaoyuan Liu on 10/9/20.
-//
-
 #include "he.h"
 
 // #define MULTIPARTY_DATABASE_HE_USE_STRICT_CHECK
