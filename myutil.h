@@ -1,7 +1,3 @@
-//
-// Created by Xiaoyuan Liu on 11/22/20.
-//
-
 #ifndef MULTIPARTY_DATABASE_MYUTIL_H
 #define MULTIPARTY_DATABASE_MYUTIL_H
 
